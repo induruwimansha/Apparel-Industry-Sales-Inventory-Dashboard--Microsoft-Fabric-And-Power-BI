@@ -35,4 +35,4 @@ The dashboard provides insights into:
 5. Dashboard exported and documented
 
 ## 👤 Author
-**Hiruni Siyambalapitiya**  
+**induru wimansha**  
